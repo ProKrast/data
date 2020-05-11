@@ -3,27 +3,27 @@
         {
             "Title": "Features of ASP.NET",
             "Location": "Webinar",
-            "Time": "1:00PM"
+            "Time": "9:00AM"
         },
         {
             "Title": "How the Internet Works",
             "Location": "Webinar",
-            "Time": "6:00PM"
+            "Time": "10:00AM"
         },
         {
             "Title": "Server Side Tech",
             "Location": "Microsoft HQ",
-            "Time": "10:00AM"
+            "Time": "12:00PM"
         },
         {
             "Title": "MVC Architecture",
             "Location": "Moscone Center",
-            "Time": "12:00PM"
+            "Time": "3:00PM"
         },
         {
             "Title": "The Future of ASP.NET",
             "Location": "Webinar",
-            "Time": "9:00AM"
+            "Time": "6:00PM"
         }
     ]
     
